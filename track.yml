@@ -2,5 +2,7 @@
 track:
     title: Intro to Designing Curriculum
     uuid: f54a8817-48b4-4141-b863-71b1ff49a67e
-    topics: []
-    
+    topics:
+    -   title: foo
+        uuid: c7d3225a-5297-44c3-8af3-1df6297d3685
+        units: []
