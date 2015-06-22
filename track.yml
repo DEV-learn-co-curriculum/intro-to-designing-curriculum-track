@@ -2,7 +2,4 @@
 track:
     title: Intro to Designing Curriculum
     uuid: f54a8817-48b4-4141-b863-71b1ff49a67e
-    topics:
-    -   title: Coming up with ideas
-        uuid: 701be7ff-e7e0-4354-b079-14c1083146c6
-        units: []
+    topics: []
